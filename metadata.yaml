@@ -1,0 +1,32 @@
+_repo: La-pena-de-mort_75308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alomar, Gabriel
+    aliases:
+    - Villalonga, Gabriel Alomar i
+    - Biel de la Mel
+    - Alomar, G. (Gabriel)
+    birthdate: 1873
+    deathdate: 1941
+    gutenberg_agent_id: '49059'
+    url: http://www.gutenberg.org/2009/agents/49059
+    wikipedia: https://ca.wikipedia.org/wiki/Gabriel_Alomar_i_Villalonga
+description: ''
+gutenberg_issued: '2025-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75308'
+language: ca
+pgterms:marc905: 20250129100311alomar
+pgterms:marc906: '1912'
+pgterms:marc907: ES
+production_note: 'Editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bBiblioteca de la Revista de Catalunya, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La pena de mort
+url: http://www.gutenberg.org/ebooks/75308
